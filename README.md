@@ -1,5 +1,5 @@
 
-# check-pr-branches
+# Check PR ranches
 An action to check if I my PR branches is allowed to merge by branch's name
 
 ## Usage
